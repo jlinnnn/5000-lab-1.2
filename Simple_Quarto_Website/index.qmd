@@ -1,0 +1,84 @@
+---
+title: "Simple_Quarto_Website"
+author: "Joshua Lin"
+bibliography: reference.bib
+date: "September 16, 2024"
+toc: true
+toc-depth: 10
+toc-title: "My_Simple_Table_of_Contents"
+lof: true
+lot: true
+---
+
+## Random00
+Lorem ipsum odor amet, consectetuer adipiscing elit. Phasellus taciti bibendum id platea eget cras quisque. Imperdiet eleifend lectus mus dapibus magna nec adipiscing. Non adipiscing sit tempor imperdiet nostra torquent commodo.
+
+## Formatted text with 2 columns
+<!--I'm making a formatted text with two columns-->
+sapien | malesuada
+----- | -----:
+eleifend | dapibus
+pharetra | posuere
+lacinia | turpis
+accumsan | pretium
+
+Attempting to add a foot-note. [^1]
+
+[^1]: This is the link to the first foot-note
+
+## Random01 w. List
+Ullamcorper cursus mus bibendum quis convallis quisque mauris sociosqu dui.
+
+* Lorem ipsum odor amet, consectetuer adipiscing elit.
+* Commodo velit nibh orci egestas semper ligula, aptent venenatis.
+* Elit nisi torquent est, bibendum iaculis potenti per class.
+* Maximus bibendum fames velit nulla sodales duis.
+
+## Markdown Table
+<!--I'm making a markdown table-->
+| Feugiat | Acurae | Dictum | Aliquam | 
+| ------- | ------ | ------- | ------ |
+| commodo | phasellus | tempus | senectus |
+| laoreet | himenaeos | fusce | tortor |
+| commodo | phasellus | gravida | cursus | 
+| vivamus | laoreet | condimentum | finibus |
+
+## Inline-Math LaTex Equation
+$x^2+3y^3 = 17$
+
+$x^5+10y^6 = 56$
+
+Find the values x and y.
+
+## Non Inline-Math LaTex Equation (Binomial Coefficient)  [^2]
+<!--The following latex code was adapted from Gemini AI--> 
+$$
+{n \choose k} = \frac {n!}{(n-k)! \cdot k!}
+$$
+
+[^2]: More at this link for regarding Binomial Coefficient
+
+## Mamba Mentality
+> A constant quest to be the best version of one's self
+                    
+                - Kobe Bryant
+
+! [Data Science Wallpaper](images/data%20science.jpg)
+
+! [Data Science Wallpaper 2](images/DS1.jpg)
+
+## First Embedded Youtube Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xC-c7E5PK0Y?si=DO1OlP_5AwBZVdqP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Mermaid Diagram  
+```{mermaid}
+flowchart TD
+    A(Start) --> B{Am I hungry?}
+    B -- Yes --> C{Where do I eat?}
+    B -- No --> F(No Food)
+    C -- Healthy --> D(Cava)
+    C -- Non-Healthy --> E(Shake Shack)
+```
+## Reference Bib Ciation Reference
+[@mahesh2020machine]
+

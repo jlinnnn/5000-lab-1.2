@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Simple_Quarto_Website",
+    "section": "",
+    "text": "Lorem ipsum odor amet, consectetuer adipiscing elit. Phasellus taciti bibendum id platea eget cras quisque. Imperdiet eleifend lectus mus dapibus magna nec adipiscing. Non adipiscing sit tempor imperdiet nostra torquent commodo."
+  },
+  {
+    "objectID": "index.html#random00",
+    "href": "index.html#random00",
+    "title": "Simple_Quarto_Website",
+    "section": "",
+    "text": "Lorem ipsum odor amet, consectetuer adipiscing elit. Phasellus taciti bibendum id platea eget cras quisque. Imperdiet eleifend lectus mus dapibus magna nec adipiscing. Non adipiscing sit tempor imperdiet nostra torquent commodo."
+  },
+  {
+    "objectID": "index.html#formatted-text-with-2-columns",
+    "href": "index.html#formatted-text-with-2-columns",
+    "title": "Simple_Quarto_Website",
+    "section": "Formatted text with 2 columns",
+    "text": "Formatted text with 2 columns\n\n\n\n\nsapien\nmalesuada\n\n\n\n\neleifend\ndapibus\n\n\npharetra\nposuere\n\n\nlacinia\nturpis\n\n\naccumsan\npretium\n\n\n\nAttempting to add a foot-note. 1"
+  },
+  {
+    "objectID": "index.html#random01-w.-list",
+    "href": "index.html#random01-w.-list",
+    "title": "Simple_Quarto_Website",
+    "section": "Random01 w. List",
+    "text": "Random01 w. List\nUllamcorper cursus mus bibendum quis convallis quisque mauris sociosqu dui.\n\nLorem ipsum odor amet, consectetuer adipiscing elit.\nCommodo velit nibh orci egestas semper ligula, aptent venenatis.\nElit nisi torquent est, bibendum iaculis potenti per class.\nMaximus bibendum fames velit nulla sodales duis."
+  },
+  {
+    "objectID": "index.html#markdown-table",
+    "href": "index.html#markdown-table",
+    "title": "Simple_Quarto_Website",
+    "section": "Markdown Table",
+    "text": "Markdown Table\n\n\n\n\nFeugiat\nAcurae\nDictum\nAliquam\n\n\n\n\ncommodo\nphasellus\ntempus\nsenectus\n\n\nlaoreet\nhimenaeos\nfusce\ntortor\n\n\ncommodo\nphasellus\ngravida\ncursus\n\n\nvivamus\nlaoreet\ncondimentum\nfinibus"
+  },
+  {
+    "objectID": "index.html#inline-math-latex-equation",
+    "href": "index.html#inline-math-latex-equation",
+    "title": "Simple_Quarto_Website",
+    "section": "Inline-Math LaTex Equation",
+    "text": "Inline-Math LaTex Equation\n\\(x^2+3y^3 = 17\\)\n\\(x^5+10y^6 = 56\\)\nFind the values x and y."
+  },
+  {
+    "objectID": "index.html#non-inline-math-latex-equation-binomial-coefficient-2",
+    "href": "index.html#non-inline-math-latex-equation-binomial-coefficient-2",
+    "title": "Simple_Quarto_Website",
+    "section": "Non Inline-Math LaTex Equation (Binomial Coefficient) 2",
+    "text": "Non Inline-Math LaTex Equation (Binomial Coefficient) 2\n\n\\[\n{n \\choose k} = \\frac {n!}{(n-k)! \\cdot k!}\n\\]"
+  },
+  {
+    "objectID": "index.html#mamba-mentality",
+    "href": "index.html#mamba-mentality",
+    "title": "Simple_Quarto_Website",
+    "section": "Mamba Mentality",
+    "text": "Mamba Mentality\n\nA constant quest to be the best version of one’s self\n\n            - Kobe Bryant\n! Data Science Wallpaper\n! Data Science Wallpaper 2"
+  },
+  {
+    "objectID": "index.html#first-embedded-youtube-video",
+    "href": "index.html#first-embedded-youtube-video",
+    "title": "Simple_Quarto_Website",
+    "section": "First Embedded Youtube Video",
+    "text": "First Embedded Youtube Video"
+  },
+  {
+    "objectID": "index.html#mermaid-diagram",
+    "href": "index.html#mermaid-diagram",
+    "title": "Simple_Quarto_Website",
+    "section": "Mermaid Diagram",
+    "text": "Mermaid Diagram\n\n\n\n\n\nflowchart TD\n    A(Start) --&gt; B{Am I hungry?}\n    B -- Yes --&gt; C{Where do I eat?}\n    B -- No --&gt; F(No Food)\n    C -- Healthy --&gt; D(Cava)\n    C -- Non-Healthy --&gt; E(Shake Shack)"
+  },
+  {
+    "objectID": "index.html#reference-bib-ciation-reference",
+    "href": "index.html#reference-bib-ciation-reference",
+    "title": "Simple_Quarto_Website",
+    "section": "Reference Bib Ciation Reference",
+    "text": "Reference Bib Ciation Reference\n(Mahesh 2020)"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Simple_Quarto_Website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is the link to the first foot-note↩︎\nMore at this link for regarding Binomial Coefficient↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#image-1",
+    "href": "slides/slides.html#image-1",
+    "title": "5000 slides",
+    "section": "Image 1",
+    "text": "Image 1\nData Science 1"
+  },
+  {
+    "objectID": "slides/slides.html#image-2",
+    "href": "slides/slides.html#image-2",
+    "title": "5000 slides",
+    "section": "Image 2",
+    "text": "Image 2\nData Science 2"
+  },
+  {
+    "objectID": "slides/slides.html#python-code",
+    "href": "slides/slides.html#python-code",
+    "title": "5000 slides",
+    "section": "Python Code",
+    "text": "Python Code\nimport matplotlib.pyplot as plt\nimport numpy as np\n\n\nx = np.linspace(0, 10, 100)\ny = 6 * x + 15\nplt.figure(figsize=(10, 6))\nplt.plot(x, y, '--r', label='y = 6x + 15') \n\n# Customize the plot\nplt.xlabel('x')\nplt.ylabel('y')\nplt.title('Basic Line Plot')\nplt.legend()\n\nplt.show()"
+  },
+  {
+    "objectID": "slides/slides.html#references",
+    "href": "slides/slides.html#references",
+    "title": "5000 slides",
+    "section": "References",
+    "text": "References\n(Mahesh 2020)\n\n\n\n\n\n\n\n\nMahesh, Batta. 2020. “Machine Learning Algorithms-a Review.” International Journal of Science and Research (IJSR).[Internet] 9 (1): 381–86."
+  }
+]
